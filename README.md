@@ -5,4 +5,4 @@ I initially thought to build a new forum here to support the pectus community. H
 
 Because reddit will most likely remain free forever, I think its best to refer users to reddit instead of creating an additional forum.
 
-Feel free to make requests or submit code changes.
+Feel free to make requests or submit code changes. I'm more than happy to add or update links to other pectus communities.
